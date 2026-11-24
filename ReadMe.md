@@ -13,7 +13,11 @@ Hi, I'm Rushikesh Davange 👋  <br>AI/ML Engineer specializing in Generative AI
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=davange-rushikesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Random Dev Quote
+
+ "First learn computer science and all the theory. Next develop a 
+ programming style. Then forget all that and just hack."
+                                                        — *George Carrette*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=davange-rushikesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
